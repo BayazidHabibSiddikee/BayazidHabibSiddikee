@@ -4,8 +4,8 @@
 
 # Hi, I'm Bayazid 👋 
 
-### 🤖 Control Systems & Embedded Engineer | RUET
-I build tools that bridge the gap between web interfaces and hardware (AVR/Arduino/Linux). Currently working on **Swordfish Web Browser** and interactive terminal systems.
+### 🤖 Control Systems & Embedded Engineer | RUET Department of Mechatronics Engineering
+I build tools that bridge the gap between web interfaces and hardware (AVR/Arduino/Linux). Currently working on **Agentic AI** and interactive terminal systems.
 
 ---
 
