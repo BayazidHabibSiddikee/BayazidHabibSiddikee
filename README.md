@@ -21,12 +21,14 @@ I work at the intersection of hardware and software — embedded systems, Linux,
 ### What I Build With
 
 ```
-Languages    →  C · C++ · Python · Shell
-Frameworks   →  FastAPI · Flask · PySide6
-AI / LLM     →  Ollama · LangChain · ChromaDB · FAISS · Kokoro TTS
+Languages    →  C · C++ · Python · Shell · TypeScript
+Frameworks   →  FastAPI · Flask · Fastify · React · PySide6
+AI / LLM     →  Ollama · LangChain · LangGraph · OpenRouter · ChromaDB · FAISS · Kokoro TTS
+Databases    →  PostgreSQL · SQLite · Redis
 Hardware     →  ATmega · Arduino · ESP32 · Raspberry Pi · PySerial
 Vision       →  OpenCV · Pytesseract
-Tools        →  avrdude · Docker · yt-dlp · Telegram Bot API · Git
+DevOps       →  Docker · Docker Compose · Caddy
+Tools        →  avrdude · yt-dlp · Telegram Bot API · Git
 Environment  →  Arch Linux · terminal-first
 ```
 
