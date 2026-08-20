@@ -53,14 +53,14 @@ Environment  →  Arch Linux (i3) · terminal-first
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BayazidHabibSiddikee&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayazidHabibSiddikee&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=BayazidHabibSiddikee&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BayazidHabibSiddikee&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayazidHabibSiddikee&theme=tokyonight" />
 </p>
 
-*If a box renders blank: it's almost always the shared stats server being rate-limited, not your repos — give it a bit or fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to your own Vercel instance for a permanent fix.*
+*Running on [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), the maintained successor to the old `github-readme-stats` (which is now archived). If a box still renders blank, it's the shared instance rate-limiting — deploying your own free Vercel instance is the permanent fix.*
 
 ---
 
